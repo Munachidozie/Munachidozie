@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm currently working on a few projects and a more kick-ass bio. I'll get back to this later.
+
+Watch out this space!!!
 <!--
 **munachidozie/munachidozie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
